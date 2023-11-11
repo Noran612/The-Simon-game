@@ -1,2 +1,2 @@
 # The-Simon-game
-![losing photo](./simonGameLosing.png)
+![losing photo](./simonGameLose.png)
